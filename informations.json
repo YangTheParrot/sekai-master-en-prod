@@ -6398,18 +6398,6 @@
         "bannerAssetbundleName": "banner_virtuallive243"
     },
     {
-        "id": 1996,
-        "seq": 1,
-        "displayOrder": 4548404,
-        "informationType": "bug",
-        "informationTag": "bug",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "(Updated: Jul.11, 02:00 a.m. PDT) Issue: Inability to Select Characters for Challenge Shows",
-        "path": "information/index.html?id=info_bug_Challenge Shows_20240710",
-        "startAt": 1720688400000
-    },
-    {
         "id": 1997,
         "seq": 1,
         "displayOrder": 4550496,
@@ -8064,14 +8052,15 @@
     {
         "id": 2121,
         "seq": 1,
-        "displayOrder": 4556508,
+        "displayOrder": 4559408,
         "informationType": "bug",
         "informationTag": "bug",
         "browseType": "internal",
         "platform": "all",
-        "title": "Issue: Japanese Text on Results Screen after Clearing All Show Missions",
+        "title": "(Update: Oct. 29, 3:00 a.m. PDT) Issue: Japanese Text on Results Screen after Clearing All Show Missions",
         "path": "information/index.html?id=info_bug_result_issue0930",
-        "startAt": 1727690400000
+        "startAt": 1730196000000,
+        "endAt": 1730894399000
     },
     {
         "id": 2122,
@@ -8306,6 +8295,32 @@
         "endAt": 1730325599000
     },
     {
+        "id": 2139,
+        "seq": 1,
+        "displayOrder": 4559492,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New song, purpose, now available!",
+        "path": "information/index.html?id=info_music_purpose",
+        "startAt": 1730268300000,
+        "endAt": 1730527499000
+    },
+    {
+        "id": 2140,
+        "seq": 1,
+        "displayOrder": 4559658,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New song, Hug, now available!",
+        "path": "information/index.html?id=info_music_Hug",
+        "startAt": 1730412000000,
+        "endAt": 1730674799000
+    },
+    {
         "id": 2147,
         "seq": 1,
         "displayOrder": 4556738,
@@ -8321,14 +8336,29 @@
     {
         "id": 2148,
         "seq": 1,
-        "displayOrder": 4556802,
+        "displayOrder": 4559408,
         "informationType": "bug",
         "informationTag": "bug",
         "browseType": "internal",
         "platform": "all",
-        "title": "Issue: Bonus Mission rewards display incorrectly for COLORFUL+ subscription holders",
+        "title": "(Update: Oct. 29, 3:00 a.m. PDT) IIssue: Bonus Mission rewards display incorrectly for COLORFUL+ subscription holders",
         "path": "information/index.html?id=info_bug_result_issue1003",
-        "startAt": 1727944200000
+        "startAt": 1730196000000,
+        "endAt": 1730894399000
+    },
+    {
+        "id": 2149,
+        "seq": 1,
+        "displayOrder": 4559696,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Nov. Show Mission Schedule\n",
+        "path": "information/index.html?id=info_livemission_start_announce_202411",
+        "startAt": 1730444400000,
+        "endAt": 1733039999000,
+        "bannerAssetbundleName": "banner_news_premiummissionpass_2023_11"
     },
     {
         "id": 2150,
@@ -8429,6 +8459,62 @@
         "bannerAssetbundleName": "banner_news_gacha395"
     },
     {
+        "id": 2157,
+        "seq": 1,
+        "displayOrder": 4559558,
+        "informationType": "normal",
+        "informationTag": "event",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "[Announcement] The Warmth of a Guiding Hand",
+        "path": "information/index.html?id=info_event111_notice",
+        "startAt": 1730325600000,
+        "endAt": 1730411999000,
+        "bannerAssetbundleName": "banner_news_event111"
+    },
+    {
+        "id": 2158,
+        "seq": 1,
+        "displayOrder": 4559658,
+        "informationType": "normal",
+        "informationTag": "event",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "[Event] The Warmth of a Guiding Hand",
+        "path": "information/index.html?id=info_event111_held",
+        "startAt": 1730412000000,
+        "endAt": 1732165199000,
+        "bannerAssetbundleName": "banner_news_event111"
+    },
+    {
+        "id": 2159,
+        "seq": 1,
+        "displayOrder": 4559496,
+        "informationType": "normal",
+        "informationTag": "campaign",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "[Announcement] Halloween Login Campaign",
+        "path": "information/index.html?id=info_logincampaign_halloween2023_notice",
+        "startAt": 1730271600000,
+        "endAt": 1730357999000,
+        "bannerAssetbundleName": "banner_news_halloween_logincp_2023"
+    },
+    {
+        "id": 2160,
+        "seq": 1,
+        "displayOrder": 4559596,
+        "informationType": "normal",
+        "informationTag": "campaign",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Halloween Login Campaign, now on!",
+        "path": "information/index.html?id=info_logincampaign_halloween2023_held",
+        "startAt": 1730358000000,
+        "endAt": 1730530799000,
+        "bannerAssetbundleName": "banner_news_halloween_logincp_2023"
+    },
+    {
         "id": 2161,
         "seq": 1,
         "displayOrder": 4557304,
@@ -8440,6 +8526,20 @@
         "path": "information/index.html?id=info_bug_specialmission_1008",
         "startAt": 1728378000000,
         "endAt": 1729061999000
+    },
+    {
+        "id": 2162,
+        "seq": 1,
+        "displayOrder": 4559696,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "November 2022 and November 2023 Show Mission Limited Edition Costumes On Sale",
+        "path": "information/index.html?id=info_shop_costume_gothic_yokai",
+        "startAt": 1730444400000,
+        "endAt": 1733039999000,
+        "bannerAssetbundleName": "news_shop_costume_resale_2022_11"
     },
     {
         "id": 2163,
@@ -8512,16 +8612,44 @@
         "bannerAssetbundleName": "banner_news_gacha398"
     },
     {
+        "id": 2168,
+        "seq": 1,
+        "displayOrder": 4559646,
+        "informationType": "normal",
+        "informationTag": "gacha",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "As Autumn Dusk Wanes Gacha, available now!",
+        "path": "information/index.html?id=info_gacha401_held",
+        "startAt": 1730401200000,
+        "endAt": 1731095999000,
+        "bannerAssetbundleName": "banner_news_gacha401"
+    },
+    {
+        "id": 2169,
+        "seq": 1,
+        "displayOrder": 4560650,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Regarding Addition of Characters to the Character Exchange",
+        "path": "information/index.html?id=info_v1000_member-update_20241110",
+        "startAt": 1731268800000,
+        "endAt": 1733039999000
+    },
+    {
         "id": 2170,
         "seq": 1,
-        "displayOrder": 4557504,
+        "displayOrder": 4559408,
         "informationType": "bug",
         "informationTag": "bug",
         "browseType": "internal",
         "platform": "all",
-        "title": "Issues as of Ver.3.0.0",
+        "title": "(Update: Oct. 29, 3:00 a.m. PDT) Issues as of Ver.3.0.0",
         "path": "information/index.html?id=info_bug_300_1010",
-        "startAt": 1728550800000
+        "startAt": 1730196000000,
+        "endAt": 1730894399000
     },
     {
         "id": 2171,
@@ -8534,6 +8662,33 @@
         "title": "Main Story animated recaps",
         "path": "information/index.html?id=info_story_anime_1011",
         "startAt": 1728666000000
+    },
+    {
+        "id": 2172,
+        "seq": 1,
+        "displayOrder": 4559746,
+        "informationType": "normal",
+        "informationTag": "gacha",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Nightcord at 25:00 World Link Event Support Gacha, available now!",
+        "path": "information/index.html?id=info_gacha405_held",
+        "startAt": 1730487600000,
+        "endAt": 1732305599000,
+        "bannerAssetbundleName": "banner_news_gacha405"
+    },
+    {
+        "id": 2182,
+        "seq": 1,
+        "displayOrder": 4559396,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Append Difficulty Now Available for Happy Halloween!",
+        "path": "information/index.html?id=info_music_append20241029",
+        "startAt": 1730185200000,
+        "endAt": 1731484799000
     },
     {
         "id": 2184,
@@ -8552,15 +8707,28 @@
     {
         "id": 2185,
         "seq": 1,
-        "displayOrder": 4558863,
+        "displayOrder": 4559408,
         "informationType": "normal",
         "informationTag": "information",
         "browseType": "internal",
         "platform": "all",
-        "title": "Maintenance (Ver.3.1.0 Update)",
+        "title": "(Update: Oct. 29, 3:00 a.m. PDT) Maintenance (Ver.3.1.0 Update)",
         "path": "information/index.html?id=info_update310_1029",
-        "startAt": 1729724400000,
+        "startAt": 1730196000000,
         "bannerAssetbundleName": "banner_patch_note"
+    },
+    {
+        "id": 2189,
+        "seq": 1,
+        "displayOrder": 4559697,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New Covers and MV Added",
+        "path": "information/index.html?id=info_add_cover_241029",
+        "startAt": 1730445300000,
+        "endAt": 1731794399000
     },
     {
         "id": 2190,
@@ -8588,6 +8756,19 @@
         "startAt": 1730152800000,
         "endAt": 1730584799000,
         "bannerAssetbundleName": "banner_news_virtuallive261"
+    },
+    {
+        "id": 2192,
+        "seq": 1,
+        "displayOrder": 4559696,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Virtual Show Archive Recordings Added to Disc Shop",
+        "path": "information/index.html?id=info_add_virtuallive_archive_shop_202411",
+        "startAt": 1730444400000,
+        "endAt": 1733039999000
     },
     {
         "id": 2193,
