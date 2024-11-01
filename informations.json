@@ -6675,15 +6675,15 @@
     {
         "id": 2018,
         "seq": 2,
-        "displayOrder": 4557758,
+        "displayOrder": 4559646,
         "informationType": "normal",
         "informationTag": "information",
         "browseType": "internal",
         "platform": "all",
         "title": "[Reminder] Get Free Items From Rewarded Ads!",
         "path": "information/index.html?id=info_from_rewarded_ads",
-        "startAt": 1728770400000,
-        "endAt": 1730260799000
+        "startAt": 1730401200000,
+        "endAt": 1732161599000
     },
     {
         "id": 2019,
@@ -8797,6 +8797,19 @@
         "startAt": 1730102400000,
         "endAt": 1731326399000,
         "bannerAssetbundleName": "banner_news_cc221027"
+    },
+    {
+        "id": 2218,
+        "seq": 1,
+        "displayOrder": 4559679,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "[IMPORTANT] Regarding Switching to Pacific Standard Time",
+        "path": "information/index.html?id=info_summertime_20241103",
+        "startAt": 1730430000000,
+        "endAt": 1731258000000
     },
     {
         "id": 10012,
