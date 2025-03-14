@@ -5379,127 +5379,6 @@
         "bannerAssetbundleName": "banner_news_banner_cp_invite_friends"
     },
     {
-        "id": 2077,
-        "seq": 1,
-        "displayOrder": 4556179,
-        "informationType": "normal",
-        "informationTag": "campaign",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "(Updated: Sep. 26, 8:00 p.m. PDT) Operation Welcome to SEKAI!",
-        "path": "information/index.html?id=info_campaign_friendinvitation_held_3rd_anniv",
-        "startAt": 1727406000000,
-        "endAt": 1733039999000,
-        "bannerAssetbundleName": "banner_news_banner_cp_invite_friends"
-    },
-    {
-        "id": 2078,
-        "seq": 1,
-        "displayOrder": 4555346,
-        "informationType": "normal",
-        "informationTag": "campaign",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "September Special Bundle Available Now!",
-        "path": "information/index.html?id=info_september_special_bundle_2024",
-        "startAt": 1726686000000,
-        "endAt": 1727333999000
-    },
-    {
-        "id": 2079,
-        "seq": 1,
-        "displayOrder": 4555896,
-        "informationType": "normal",
-        "informationTag": "campaign",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "[Announcement]Group Memories Live2D Art Release Login Campaign",
-        "path": "information/index.html?id=info_loginbonus_unit-pv_release_notice",
-        "startAt": 1727161200000,
-        "endAt": 1727247599000
-    },
-    {
-        "id": 2080,
-        "seq": 1,
-        "displayOrder": 4555996,
-        "informationType": "normal",
-        "informationTag": "campaign",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "Group Memories Live2D Art Release Login Campaign, now on!",
-        "path": "information/index.html?id=info_loginbonus_unit-pv_release_held",
-        "startAt": 1727247600000,
-        "endAt": 1727679599000
-    },
-    {
-        "id": 2081,
-        "seq": 1,
-        "displayOrder": 4556071,
-        "informationType": "normal",
-        "informationTag": "music",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "New song, FAKE HEART, now available!",
-        "path": "information/index.html?id=info_music_FAKE HEART",
-        "startAt": 1727312400000,
-        "endAt": 1727571599000
-    },
-    {
-        "id": 2082,
-        "seq": 1,
-        "displayOrder": 4555846,
-        "informationType": "normal",
-        "informationTag": "gacha",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "[Announcement] 2024 September Premium Gift Gacha!",
-        "path": "information/index.html?id=info_gacha492_notice",
-        "startAt": 1727118000000,
-        "endAt": 1727204399000,
-        "bannerAssetbundleName": "banner_news_gacha492"
-    },
-    {
-        "id": 2083,
-        "seq": 1,
-        "displayOrder": 4555946,
-        "informationType": "normal",
-        "informationTag": "gacha",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "2024 September Premium Gift Gacha, available now!",
-        "path": "information/index.html?id=info_gacha492_held",
-        "startAt": 1727204400000,
-        "endAt": 1727981999000,
-        "bannerAssetbundleName": "banner_news_gacha492"
-    },
-    {
-        "id": 2084,
-        "seq": 1,
-        "displayOrder": 4556596,
-        "informationType": "normal",
-        "informationTag": "information",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "Virtual Show Archive Recordings Added to Disc Shop",
-        "path": "information/index.html?id=info_add_virtuallive_archive_shop_202410",
-        "startAt": 1727766000000,
-        "endAt": 1730444399000
-    },
-    {
-        "id": 2085,
-        "seq": 1,
-        "displayOrder": 4556596,
-        "informationType": "normal",
-        "informationTag": "information",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "Oct. Show Mission Schedule",
-        "path": "information/index.html?id=info_livemission_start_announce_202410",
-        "startAt": 1727766000000,
-        "endAt": 1730444399000,
-        "bannerAssetbundleName": "banner_news_premiummissionpass_2023_10"
-    },
-    {
         "id": 2087,
         "seq": 1,
         "displayOrder": 4556508,
@@ -9779,7 +9658,49 @@
         "bannerAssetbundleName": "banner_news_gacha474"
     },
     {
+        "id": 2401,
+        "seq": 1,
+        "displayOrder": 4574346,
+        "informationType": "normal",
+        "informationTag": "campaign",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "JP 3.5 Year Anniversary Run-Up Login Campaign",
+        "path": "information/index.html?id=info_shop_jp_3.5_anniversary_notice",
+        "startAt": 1743102000000,
+        "endAt": 1743361199000,
+        "bannerAssetbundleName": "banner_news_logincp_world_3900_pre_anniversary"
+    },
+    {
+        "id": 2404,
+        "seq": 1,
+        "displayOrder": 4574346,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "JP 3.5 Year Anniversary Run-Up Bundle",
+        "path": "information/index.html?id=info_shop_JP3.5_pre_anniversary_notice",
+        "startAt": 1743102000000,
+        "endAt": 1744095599000,
+        "bannerAssetbundleName": "banner_news_shop_world_3900_pre_anniversary"
+    },
+    {
         "id": 2409,
+        "seq": 1,
+        "displayOrder": 4574346,
+        "informationType": "normal",
+        "informationTag": "gacha",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "JP 3.5 Year Anniversary Run-Up Happiness Package Gacha",
+        "path": "information/index.html?id=info_gacha483_notice",
+        "startAt": 1743102000000,
+        "endAt": 1744095599000,
+        "bannerAssetbundleName": "banner_news_gacha483"
+    },
+    {
+        "id": 2410,
         "seq": 1,
         "displayOrder": 4572400,
         "informationType": "normal",
@@ -9793,7 +9714,7 @@
         "bannerAssetbundleName": "banner_news_gacha1118"
     },
     {
-        "id": 2410,
+        "id": 2411,
         "seq": 1,
         "displayOrder": 4572400,
         "informationType": "normal",
@@ -9807,7 +9728,7 @@
         "bannerAssetbundleName": "banner_news_mikusday_logincp_2025"
     },
     {
-        "id": 2411,
+        "id": 2412,
         "seq": 1,
         "displayOrder": 4572500,
         "informationType": "normal",
@@ -9821,7 +9742,7 @@
         "bannerAssetbundleName": "banner_news_mikusday_logincp_2025"
     },
     {
-        "id": 2412,
+        "id": 2413,
         "seq": 1,
         "displayOrder": 4572896,
         "informationType": "normal",
@@ -9835,7 +9756,7 @@
         "bannerAssetbundleName": "banner_news_whiteDay_logincp_2024"
     },
     {
-        "id": 2413,
+        "id": 2414,
         "seq": 1,
         "displayOrder": 4572996,
         "informationType": "normal",
@@ -9849,7 +9770,7 @@
         "bannerAssetbundleName": "banner_news_whiteDay_logincp_2024"
     },
     {
-        "id": 2414,
+        "id": 2415,
         "seq": 1,
         "displayOrder": 4571496,
         "informationType": "normal",
@@ -9862,7 +9783,7 @@
         "endAt": 1740899099000
     },
     {
-        "id": 2415,
+        "id": 2416,
         "seq": 1,
         "displayOrder": 4571663,
         "informationType": "normal",
@@ -9875,7 +9796,7 @@
         "endAt": 1741042799000
     },
     {
-        "id": 2416,
+        "id": 2417,
         "seq": 1,
         "displayOrder": 4571763,
         "informationType": "normal",
@@ -9888,7 +9809,7 @@
         "endAt": 1741129199000
     },
     {
-        "id": 2417,
+        "id": 2418,
         "seq": 1,
         "displayOrder": 4572063,
         "informationType": "normal",
@@ -9901,7 +9822,7 @@
         "endAt": 1741388399000
     },
     {
-        "id": 2418,
+        "id": 2419,
         "seq": 1,
         "displayOrder": 4571304,
         "informationType": "normal",
@@ -9915,7 +9836,7 @@
         "bannerAssetbundleName": "banner_news_colorfulcorner"
     },
     {
-        "id": 2419,
+        "id": 2420,
         "seq": 1,
         "displayOrder": 4571304,
         "informationType": "normal",
@@ -9925,10 +9846,10 @@
         "title": "Regarding inaccurate 14M DLs! 10x Gacha Ticket social media post & corresponding gift",
         "path": "information/index.html?id=info_Regarding_inaccurate_14M_DLs",
         "startAt": 1740474000000,
-        "endAt": 1741694399000
+        "endAt": 1743490799000
     },
     {
-        "id": 2420,
+        "id": 2421,
         "seq": 1,
         "displayOrder": 4572646,
         "informationType": "normal",
@@ -9942,7 +9863,7 @@
         "bannerAssetbundleName": "banner_news_gacha476"
     },
     {
-        "id": 2421,
+        "id": 2422,
         "seq": 1,
         "displayOrder": 4573046,
         "informationType": "normal",
@@ -9956,7 +9877,7 @@
         "bannerAssetbundleName": "banner_news_gacha477"
     },
     {
-        "id": 2422,
+        "id": 2423,
         "seq": 1,
         "displayOrder": 4573396,
         "informationType": "normal",
@@ -9970,7 +9891,7 @@
         "bannerAssetbundleName": "banner_news_gacha479"
     },
     {
-        "id": 2423,
+        "id": 2424,
         "seq": 1,
         "displayOrder": 4572858,
         "informationType": "normal",
@@ -9984,21 +9905,21 @@
         "bannerAssetbundleName": "banner_news_virtuallive291"
     },
     {
-        "id": 2424,
+        "id": 2425,
         "seq": 1,
-        "displayOrder": 4573258,
+        "displayOrder": 4573358,
         "informationType": "normal",
         "informationTag": "information",
         "browseType": "internal",
         "platform": "all",
         "title": "Airi's Birthday Show, coming Mar. 19.",
         "path": "information/index.html?id=info_virtuallive292",
-        "startAt": 1742162400000,
+        "startAt": 1742248800000,
         "endAt": 1742594399000,
         "bannerAssetbundleName": "banner_news_virtuallive292"
     },
     {
-        "id": 2425,
+        "id": 2426,
         "seq": 1,
         "displayOrder": 4573758,
         "informationType": "normal",
@@ -10012,7 +9933,7 @@
         "bannerAssetbundleName": "news_event_concerto_2024"
     },
     {
-        "id": 2426,
+        "id": 2427,
         "seq": 1,
         "displayOrder": 4573858,
         "informationType": "normal",
@@ -10026,7 +9947,7 @@
         "bannerAssetbundleName": "news_event_concerto_2024"
     },
     {
-        "id": 2427,
+        "id": 2428,
         "seq": 1,
         "displayOrder": 4573846,
         "informationType": "normal",
@@ -10040,7 +9961,7 @@
         "bannerAssetbundleName": "banner_news_gacha482"
     },
     {
-        "id": 2428,
+        "id": 2429,
         "seq": 1,
         "displayOrder": 4574146,
         "informationType": "normal",
@@ -10056,6 +9977,20 @@
     {
         "id": 2432,
         "seq": 1,
+        "displayOrder": 4573246,
+        "informationType": "normal",
+        "informationTag": "campaign",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Spring Login Campaign",
+        "path": "information/index.html?id=info_loginbonus_Spring_Login_Campaign_held_2025",
+        "startAt": 1742151600000,
+        "endAt": 1743505199000,
+        "bannerAssetbundleName": "banner_news_spring_login_bonus_2022"
+    },
+    {
+        "id": 2433,
+        "seq": 1,
         "displayOrder": 4572463,
         "informationType": "normal",
         "informationTag": "music",
@@ -10067,7 +10002,7 @@
         "endAt": 1741730399000
     },
     {
-        "id": 2433,
+        "id": 2434,
         "seq": 1,
         "displayOrder": 4572558,
         "informationType": "normal",
@@ -10078,6 +10013,45 @@
         "path": "information/index.html?id=info_music_Hajimete no Oto",
         "startAt": 1741557600000,
         "endAt": 1741816799000
+    },
+    {
+        "id": 2435,
+        "seq": 1,
+        "displayOrder": 4572758,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New song, flos, now available!",
+        "path": "information/index.html?id=info_music_flos",
+        "startAt": 1741730400000,
+        "endAt": 1741989599000
+    },
+    {
+        "id": 2436,
+        "seq": 1,
+        "displayOrder": 4573158,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New song, A Word, now available!",
+        "path": "information/index.html?id=info_music_A Word",
+        "startAt": 1742076000000,
+        "endAt": 1742335199000
+    },
+    {
+        "id": 2437,
+        "seq": 1,
+        "displayOrder": 4573458,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New song, A Glimmer, 1/f fluctuation, now available!",
+        "path": "information/index.html?id=info_music_A Glimmer1ffluctuation",
+        "startAt": 1742335200000,
+        "endAt": 1742594399000
     },
     {
         "id": 10012,
