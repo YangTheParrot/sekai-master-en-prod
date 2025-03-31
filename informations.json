@@ -8537,14 +8537,14 @@
     {
         "id": 2455,
         "seq": 1,
-        "displayOrder": 4574408,
+        "displayOrder": 4574404,
         "informationType": "bug",
         "informationTag": "bug",
         "browseType": "internal",
         "platform": "all",
-        "title": "(Updated: Mar. 28, 2:00 a.m. PT) Issues: Some text and effects are not displayed correctly in Wonderland SEKAI",
+        "title": "(Updated: Mar. 28, 1:00 a.m. PT) Issues: Some text and effects are not displayed correctly in Wonderland SEKAI",
         "path": "information/index.html?id=info_bug_textandeffects_0321",
-        "startAt": 1743156000000
+        "startAt": 1743152400000
     },
     {
         "id": 2456,
@@ -8604,14 +8604,14 @@
     {
         "id": 2460,
         "seq": 1,
-        "displayOrder": 4574408,
+        "displayOrder": 4574404,
         "informationType": "normal",
         "informationTag": "information",
         "browseType": "internal",
         "platform": "all",
-        "title": "(Updated: Mar. 28, 2:00 a.m. PT) Maintenance (Ver.3.4.0 Update)",
+        "title": "(Updated: Mar. 28, 1:00 a.m. PT) Maintenance (Ver.3.4.0 Update)",
         "path": "information/index.html?id=info_update340_0325",
-        "startAt": 1743156000000,
+        "startAt": 1743152400000,
         "bannerAssetbundleName": "banner_patch_note"
     },
     {
