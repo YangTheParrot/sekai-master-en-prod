@@ -5,6 +5,10 @@
         "seq": 300050,
         "billingShopItemTabChildGls": [
             {
+                "billingShopItemId": 10161,
+                "seq": 57
+            },
+            {
                 "billingShopItemId": 20100,
                 "seq": 58
             },
@@ -457,10 +461,6 @@
             {
                 "billingShopItemId": 10160,
                 "seq": 56
-            },
-            {
-                "billingShopItemId": 10161,
-                "seq": 57
             },
             {
                 "billingShopItemId": 50003,
