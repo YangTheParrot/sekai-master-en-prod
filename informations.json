@@ -8629,6 +8629,30 @@
         "bannerAssetbundleName": "banner_news_colorfulcorner"
     },
     {
+        "id": 2475,
+        "seq": 1,
+        "displayOrder": 4574800,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Issues: Cheerful Shows Unable to Start",
+        "path": "information/index.html?id=info_bug_cheerfulshow_0401",
+        "startAt": 1743494400000
+    },
+    {
+        "id": 2489,
+        "seq": 1,
+        "displayOrder": 4574908,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Issue: COLORFUL+ Purchase Bonuses Not Claimable",
+        "path": "information/index.html?id=info_bug_colorful_0402",
+        "startAt": 1743588000000
+    },
+    {
         "id": 10012,
         "seq": 1,
         "displayOrder": 31315,
