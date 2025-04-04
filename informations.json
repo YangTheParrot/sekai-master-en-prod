@@ -8653,6 +8653,19 @@
         "startAt": 1743588000000
     },
     {
+        "id": 2490,
+        "seq": 1,
+        "displayOrder": 4575108,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Ver.3.4.1 Update",
+        "path": "information/index.html?id=info_update341_0404",
+        "startAt": 1743760800000,
+        "bannerAssetbundleName": "banner_patch_note"
+    },
+    {
         "id": 10012,
         "seq": 1,
         "displayOrder": 31315,
