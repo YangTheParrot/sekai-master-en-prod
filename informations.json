@@ -7829,14 +7829,14 @@
     {
         "id": 2403,
         "seq": 1,
-        "displayOrder": 4574546,
+        "displayOrder": 4575696,
         "informationType": "normal",
         "informationTag": "campaign",
         "browseType": "internal",
         "platform": "all",
-        "title": "JP 3.5 Year Anniversary Stamp Missions",
+        "title": "(Updated: Apr. 10, 12:00 a.m. PT) JP 3.5 Year Anniversary Stamp Missions",
         "path": "information/index.html?id=info_campaign_JP3.5-stamp-mission_notice",
-        "startAt": 1743274800000,
+        "startAt": 1744268400000,
         "endAt": 1746514799000,
         "bannerAssetbundleName": "banner_news_world_3900_anniversary"
     },
