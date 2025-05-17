@@ -413,21 +413,6 @@
         "endAt": 1748026799000
     },
     {
-        "id": 208,
-        "shopItemType": "billing_shop",
-        "shopItemId": 20140,
-        "offerType": "limited",
-        "offerDisplayCondition": "gacha_get_pickup",
-        "requirement": 1,
-        "param1": 506,
-        "buyLimitCount": 1,
-        "saleDurationMinutes": 10079,
-        "assetBundleName": "offer27",
-        "seq": 1,
-        "startAt": 1746774000000,
-        "endAt": 1747378799000
-    },
-    {
         "id": 209,
         "shopItemType": "billing_shop",
         "shopItemId": 20146,
