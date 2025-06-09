@@ -9244,6 +9244,19 @@
         "endAt": 1749851999000
     },
     {
+        "id": 2585,
+        "seq": 1,
+        "displayOrder": 4581558,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New song, Sad Machine, now available!",
+        "path": "information/index.html?id=info_music_Sad Machine",
+        "startAt": 1749333600000,
+        "endAt": 1749592799000
+    },
+    {
         "id": 2586,
         "seq": 1,
         "displayOrder": 4581395,
@@ -9286,14 +9299,14 @@
     {
         "id": 2590,
         "seq": 1,
-        "displayOrder": 4581079,
+        "displayOrder": 4581496,
         "informationType": "normal",
         "informationTag": "information",
         "browseType": "internal",
         "platform": "all",
-        "title": "Ver.3.6.1 Update",
+        "title": "(Updated: Jun. 7, 12:00 a.m. PT) Ver.3.6.1 Update",
         "path": "information/index.html?id=info_update361_0603",
-        "startAt": 1748919600000,
+        "startAt": 1749279600000,
         "bannerAssetbundleName": "banner_patch_note"
     },
     {
