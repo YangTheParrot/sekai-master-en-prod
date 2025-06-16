@@ -9310,6 +9310,18 @@
         "bannerAssetbundleName": "banner_patch_note"
     },
     {
+        "id": 2597,
+        "seq": 1,
+        "displayOrder": 4582096,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Warning: Android 16 Update",
+        "path": "information/index.html?id=info_and16",
+        "startAt": 1749798000000
+    },
+    {
         "id": 10012,
         "seq": 1,
         "displayOrder": 31315,
