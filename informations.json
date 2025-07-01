@@ -9111,6 +9111,20 @@
         "endAt": 1750921199000
     },
     {
+        "id": 2604,
+        "seq": 1,
+        "displayOrder": 4584246,
+        "informationType": "normal",
+        "informationTag": "gacha",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "The Party of Blast!! Gacha",
+        "path": "information/index.html?id=info_gacha535_held",
+        "startAt": 1751655600000,
+        "endAt": 1752087599000,
+        "bannerAssetbundleName": "banner_news_gacha535"
+    },
+    {
         "id": 2605,
         "seq": 1,
         "displayOrder": 4584446,
@@ -9176,6 +9190,19 @@
         "title": "Cheerful Carnival Event Cancellation",
         "path": "information/index.html?id=info_livebroadcast_summary_20250625",
         "startAt": 1750906800000
+    },
+    {
+        "id": 2629,
+        "seq": 1,
+        "displayOrder": 4583904,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Fixed Issues on Mission Menus",
+        "path": "information/index.html?id=info_bug_Mission_Menus_0701",
+        "startAt": 1751360400000,
+        "endAt": 1752569999000
     },
     {
         "id": 10012,
