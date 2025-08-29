@@ -8836,6 +8836,18 @@
         "bannerAssetbundleName": "banner_news_gacha574"
     },
     {
+        "id": 2707,
+        "seq": 1,
+        "displayOrder": 4589771,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Issue:Players are unable to view the contents of pamphlets.",
+        "path": "information/index.html?id=info_bug_pamphlets_0829",
+        "startAt": 1756429200000
+    },
+    {
         "id": 10012,
         "seq": 1,
         "displayOrder": 31315,
