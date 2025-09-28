@@ -9607,6 +9607,32 @@
         "bannerAssetbundleName": "banner_news_gacha588"
     },
     {
+        "id": 2768,
+        "seq": 1,
+        "displayOrder": 4592896,
+        "informationType": "normal",
+        "informationTag": "campaign",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "JP 4th Anniversary Fortune Flower Parade",
+        "path": "information/index.html?id=info_4th_annive_fortune_flour_notice",
+        "startAt": 1759129200000,
+        "endAt": 1763193599000,
+        "bannerAssetbundleName": "banner_news_4thAnniversaryCp"
+    },
+    {
+        "id": 2769,
+        "seq": 1,
+        "displayOrder": 4592581,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Issue: Welcome Show Bug",
+        "path": "information/index.html?id=info_bug_welcomeshow_0926",
+        "startAt": 1758857400000
+    },
+    {
         "id": 10012,
         "seq": 1,
         "displayOrder": 31315,
