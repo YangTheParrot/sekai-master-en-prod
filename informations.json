@@ -9428,15 +9428,15 @@
     {
         "id": 2755,
         "seq": 1,
-        "displayOrder": 4592996,
+        "displayOrder": 4593096,
         "informationType": "normal",
         "informationTag": "information",
         "browseType": "internal",
         "platform": "all",
-        "title": "October 2023 Show Mission Exclusive Costumes & JP 3rd Anniversary Exclusive Costumes Available!",
+        "title": "October 2024 Show Mission Exclusive Costumes & JP 3rd Anniversary Exclusive Costumes On Sale",
         "path": "information/index.html?id=info_shop_costume_Autumn_JP3rdAniv",
-        "startAt": 1759215600000,
-        "endAt": 1759733999000,
+        "startAt": 1759302000000,
+        "endAt": 1761980399000,
         "bannerAssetbundleName": "news_shop_costume_resale_2024_10"
     },
     {
@@ -9547,7 +9547,7 @@
         "title": "JP 4th Anniversary Crystal Shop",
         "path": "information/index.html?id=info_shop_JP 4th Anniversary Crystal Shop",
         "startAt": 1759215600000,
-        "endAt": 1759733999000,
+        "endAt": 1761937199000,
         "bannerAssetbundleName": "banner_shop_4y"
     },
     {
@@ -9631,6 +9631,46 @@
         "title": "Issue: Welcome Show Bug",
         "path": "information/index.html?id=info_bug_welcomeshow_0926",
         "startAt": 1758857400000
+    },
+    {
+        "id": 2770,
+        "seq": 1,
+        "displayOrder": 4593046,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Issue: Unintended Behavior in Character Details Screens",
+        "path": "information/index.html?id=info_bug_CharacterDetails_0930",
+        "startAt": 1759258800000
+    },
+    {
+        "id": 2771,
+        "seq": 1,
+        "displayOrder": 4592879,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Upcoming Colorful Corner Livestream",
+        "path": "information/index.html?id=info_colorful_corner_0929",
+        "startAt": 1759114800000,
+        "endAt": 1757505599000,
+        "bannerAssetbundleName": "banner_news_colorfulcorner"
+    },
+    {
+        "id": 2772,
+        "seq": 1,
+        "displayOrder": 4593846,
+        "informationType": "normal",
+        "informationTag": "gacha",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "[It's Back] Grow Up With Me! Gacha",
+        "path": "information/index.html?id=info_gacha600_notice",
+        "startAt": 1759950000000,
+        "endAt": 1760727599000,
+        "bannerAssetbundleName": "banner_news_gacha600"
     },
     {
         "id": 10012,
