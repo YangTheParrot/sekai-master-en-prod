@@ -2994,6 +2994,19 @@
         "bannerAssetbundleName": "banner_news_gacha608"
     },
     {
+        "id": 2812,
+        "seq": 1,
+        "displayOrder": 4595458,
+        "informationType": "normal",
+        "informationTag": "music",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "New song, i DO what i WANT, now available!",
+        "path": "information/index.html?id=info_music_i DO what i WANT",
+        "startAt": 1761343200000,
+        "endAt": 1761602399000
+    },
+    {
         "id": 2814,
         "seq": 1,
         "displayOrder": 4595458,
@@ -3005,6 +3018,20 @@
         "path": "information/index.html?id=info_update410_1022",
         "startAt": 1761343200000,
         "bannerAssetbundleName": "banner_patch_note"
+    },
+    {
+        "id": 2818,
+        "seq": 1,
+        "displayOrder": 4595400,
+        "informationType": "normal",
+        "informationTag": "information",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "Upcoming Colorful Corner Livestream",
+        "path": "information/index.html?id=info_colorful_corner_1024",
+        "startAt": 1761292800000,
+        "endAt": 1762516799000,
+        "bannerAssetbundleName": "banner_news_colorfulcorner"
     },
     {
         "id": 10012,
