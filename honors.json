@@ -9,12 +9,6 @@
         "levels": [
             {
                 "honorId": 1,
-                "level": 1,
-                "bonus": 0,
-                "description": "Increase Ichika Hoshino's Character Rank to 5."
-            },
-            {
-                "honorId": 1,
                 "level": 2,
                 "bonus": 0,
                 "description": "Increase Ichika Hoshino's Character Rank to 10."
@@ -228,6 +222,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Ichika Hoshino's Character Rank to 160."
+            },
+            {
+                "honorId": 4,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Ichika Hoshino's Character Rank to 165."
+            },
+            {
+                "honorId": 4,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Ichika Hoshino's Character Rank to 170."
+            },
+            {
+                "honorId": 4,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Ichika Hoshino's Character Rank to 175."
             }
         ]
     },
@@ -460,6 +472,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Saki Tenma's Character Rank to 160."
+            },
+            {
+                "honorId": 8,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Saki Tenma's Character Rank to 165."
+            },
+            {
+                "honorId": 8,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Saki Tenma's Character Rank to 170."
+            },
+            {
+                "honorId": 8,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Saki Tenma's Character Rank to 175."
             }
         ]
     },
@@ -692,6 +722,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Honami Mochizuki's Character Rank to 160."
+            },
+            {
+                "honorId": 12,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Honami Mochizuki's Character Rank to 165."
+            },
+            {
+                "honorId": 12,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Honami Mochizuki's Character Rank to 170."
+            },
+            {
+                "honorId": 12,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Honami Mochizuki's Character Rank to 175."
             }
         ]
     },
@@ -924,6 +972,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Shiho Hinomori's Character Rank to 160."
+            },
+            {
+                "honorId": 16,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Shiho Hinomori's Character Rank to 165."
+            },
+            {
+                "honorId": 16,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Shiho Hinomori's Character Rank to 170."
+            },
+            {
+                "honorId": 16,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Shiho Hinomori's Character Rank to 175."
             }
         ]
     },
@@ -1156,6 +1222,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Minori Hanasato's Character Rank to 160."
+            },
+            {
+                "honorId": 20,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Minori Hanasato's Character Rank to 165."
+            },
+            {
+                "honorId": 20,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Minori Hanasato's Character Rank to 170."
+            },
+            {
+                "honorId": 20,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Minori Hanasato's Character Rank to 175."
             }
         ]
     },
@@ -1388,6 +1472,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Haruka Kiritani's Character Rank to 160."
+            },
+            {
+                "honorId": 24,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Haruka Kiritani's Character Rank to 165."
+            },
+            {
+                "honorId": 24,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Haruka Kiritani's Character Rank to 170."
+            },
+            {
+                "honorId": 24,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Haruka Kiritani's Character Rank to 175."
             }
         ]
     },
@@ -1620,6 +1722,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Airi Momoi's Character Rank to 160."
+            },
+            {
+                "honorId": 28,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Airi Momoi's Character Rank to 165."
+            },
+            {
+                "honorId": 28,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Airi Momoi's Character Rank to 170."
+            },
+            {
+                "honorId": 28,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Airi Momoi's Character Rank to 175."
             }
         ]
     },
@@ -1852,6 +1972,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Shizuku Hinomori's Character Rank to 160."
+            },
+            {
+                "honorId": 32,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Shizuku Hinomori's Character Rank to 165."
+            },
+            {
+                "honorId": 32,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Shizuku Hinomori's Character Rank to 170."
+            },
+            {
+                "honorId": 32,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Shizuku Hinomori's Character Rank to 175."
             }
         ]
     },
@@ -2084,6 +2222,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Kohane Azusawa's Character Rank to 160."
+            },
+            {
+                "honorId": 36,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Kohane Azusawa's Character Rank to 165."
+            },
+            {
+                "honorId": 36,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Kohane Azusawa's Character Rank to 170."
+            },
+            {
+                "honorId": 36,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Kohane Azusawa's Character Rank to 175."
             }
         ]
     },
@@ -2316,6 +2472,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase An Shiraishi's Character Rank to 160."
+            },
+            {
+                "honorId": 40,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase An Shiraishi's Character Rank to 165."
+            },
+            {
+                "honorId": 40,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase An Shiraishi's Character Rank to 170."
+            },
+            {
+                "honorId": 40,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase An Shiraishi's Character Rank to 175."
             }
         ]
     },
@@ -2548,6 +2722,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Akito Shinonome's Character Rank to 160."
+            },
+            {
+                "honorId": 44,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Akito Shinonome's Character Rank to 165."
+            },
+            {
+                "honorId": 44,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Akito Shinonome's Character Rank to 170."
+            },
+            {
+                "honorId": 44,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Akito Shinonome's Character Rank to 175."
             }
         ]
     },
@@ -2780,6 +2972,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Toya Aoyagi's Character Rank to 160."
+            },
+            {
+                "honorId": 48,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Toya Aoyagi's Character Rank to 165."
+            },
+            {
+                "honorId": 48,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Toya Aoyagi's Character Rank to 170."
+            },
+            {
+                "honorId": 48,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Toya Aoyagi's Character Rank to 175."
             }
         ]
     },
@@ -3012,6 +3222,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Tsukasa Tenma's Character Rank to 160."
+            },
+            {
+                "honorId": 52,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Tsukasa Tenma's Character Rank to 165."
+            },
+            {
+                "honorId": 52,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Tsukasa Tenma's Character Rank to 170."
+            },
+            {
+                "honorId": 52,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Tsukasa Tenma's Character Rank to 175."
             }
         ]
     },
@@ -3244,6 +3472,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Emu Otori's Character Rank to 160."
+            },
+            {
+                "honorId": 56,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Emu Otori's Character Rank to 165."
+            },
+            {
+                "honorId": 56,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Emu Otori's Character Rank to 170."
+            },
+            {
+                "honorId": 56,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Emu Otori's Character Rank to 175."
             }
         ]
     },
@@ -3476,6 +3722,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Nene Kusanagi's Character Rank to 160."
+            },
+            {
+                "honorId": 60,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Nene Kusanagi's Character Rank to 165."
+            },
+            {
+                "honorId": 60,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Nene Kusanagi's Character Rank to 170."
+            },
+            {
+                "honorId": 60,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Nene Kusanagi's Character Rank to 175."
             }
         ]
     },
@@ -3708,6 +3972,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Rui Kamishiro's Character Rank to 160."
+            },
+            {
+                "honorId": 64,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Rui Kamishiro's Character Rank to 165."
+            },
+            {
+                "honorId": 64,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Rui Kamishiro's Character Rank to 170."
+            },
+            {
+                "honorId": 64,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Rui Kamishiro's Character Rank to 175."
             }
         ]
     },
@@ -3940,6 +4222,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Kanade Yoisaki's Character Rank to 160."
+            },
+            {
+                "honorId": 68,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Kanade Yoisaki's Character Rank to 165."
+            },
+            {
+                "honorId": 68,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Kanade Yoisaki's Character Rank to 170."
+            },
+            {
+                "honorId": 68,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Kanade Yoisaki's Character Rank to 175."
             }
         ]
     },
@@ -4172,6 +4472,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Mafuyu Asahina's Character Rank to 160."
+            },
+            {
+                "honorId": 72,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Mafuyu Asahina's Character Rank to 165."
+            },
+            {
+                "honorId": 72,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Mafuyu Asahina's Character Rank to 170."
+            },
+            {
+                "honorId": 72,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Mafuyu Asahina's Character Rank to 175."
             }
         ]
     },
@@ -4404,6 +4722,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Ena Shinonome's Character Rank to 160."
+            },
+            {
+                "honorId": 76,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Ena Shinonome's Character Rank to 165."
+            },
+            {
+                "honorId": 76,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Ena Shinonome's Character Rank to 170."
+            },
+            {
+                "honorId": 76,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Ena Shinonome's Character Rank to 175."
             }
         ]
     },
@@ -4636,6 +4972,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Mizuki Akiyama's Character Rank to 160."
+            },
+            {
+                "honorId": 80,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Mizuki Akiyama's Character Rank to 165."
+            },
+            {
+                "honorId": 80,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Mizuki Akiyama's Character Rank to 170."
+            },
+            {
+                "honorId": 80,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Mizuki Akiyama's Character Rank to 175."
             }
         ]
     },
@@ -4868,6 +5222,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Hatsune Miku's Character Rank to 160."
+            },
+            {
+                "honorId": 84,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Hatsune Miku's Character Rank to 165."
+            },
+            {
+                "honorId": 84,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Hatsune Miku's Character Rank to 170."
+            },
+            {
+                "honorId": 84,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Hatsune Miku's Character Rank to 175."
             }
         ]
     },
@@ -5100,6 +5472,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Kagamine Rin's Character Rank to 160."
+            },
+            {
+                "honorId": 88,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Kagamine Rin's Character Rank to 165."
+            },
+            {
+                "honorId": 88,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Kagamine Rin's Character Rank to 170."
+            },
+            {
+                "honorId": 88,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Kagamine Rin's Character Rank to 175."
             }
         ]
     },
@@ -5332,6 +5722,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Kagamine Len's Character Rank to 160."
+            },
+            {
+                "honorId": 92,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Kagamine Len's Character Rank to 165."
+            },
+            {
+                "honorId": 92,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Kagamine Len's Character Rank to 170."
+            },
+            {
+                "honorId": 92,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Kagamine Len's Character Rank to 175."
             }
         ]
     },
@@ -5564,6 +5972,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase Megurine Luka's Character Rank to 160."
+            },
+            {
+                "honorId": 96,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase Megurine Luka's Character Rank to 165."
+            },
+            {
+                "honorId": 96,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase Megurine Luka's Character Rank to 170."
+            },
+            {
+                "honorId": 96,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase Megurine Luka's Character Rank to 175."
             }
         ]
     },
@@ -5796,6 +6222,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase MEIKO's Character Rank to 160."
+            },
+            {
+                "honorId": 100,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase MEIKO's Character Rank to 165."
+            },
+            {
+                "honorId": 100,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase MEIKO's Character Rank to 170."
+            },
+            {
+                "honorId": 100,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase MEIKO's Character Rank to 175."
             }
         ]
     },
@@ -6028,6 +6472,24 @@
                 "level": 7,
                 "bonus": 0,
                 "description": "Increase KAITO's Character Rank to 160."
+            },
+            {
+                "honorId": 104,
+                "level": 8,
+                "bonus": 0,
+                "description": "Increase KAITO's Character Rank to 165."
+            },
+            {
+                "honorId": 104,
+                "level": 9,
+                "bonus": 0,
+                "description": "Increase KAITO's Character Rank to 170."
+            },
+            {
+                "honorId": 104,
+                "level": 10,
+                "bonus": 0,
+                "description": "Increase KAITO's Character Rank to 175."
             }
         ]
     },
@@ -6736,6 +7198,60 @@
                 "level": 1,
                 "bonus": 10,
                 "description": "Collect 30 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 2,
+                "bonus": 10,
+                "description": "Collect 60 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 3,
+                "bonus": 10,
+                "description": "Collect 90 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 4,
+                "bonus": 10,
+                "description": "Collect 120 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 5,
+                "bonus": 10,
+                "description": "Collect 150 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 6,
+                "bonus": 10,
+                "description": "Collect 180 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 7,
+                "bonus": 10,
+                "description": "Collect 210 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 8,
+                "bonus": 10,
+                "description": "Collect 240 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 9,
+                "bonus": 10,
+                "description": "Collect 270 Stamps."
+            },
+            {
+                "honorId": 137,
+                "level": 10,
+                "bonus": 10,
+                "description": "Collect 300 Stamps."
             }
         ]
     },
@@ -6752,6 +7268,60 @@
                 "level": 1,
                 "bonus": 10,
                 "description": "View 500 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 2,
+                "bonus": 10,
+                "description": "View 600 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 3,
+                "bonus": 10,
+                "description": "View 700 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 4,
+                "bonus": 10,
+                "description": "View 800 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 5,
+                "bonus": 10,
+                "description": "View 900 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 6,
+                "bonus": 10,
+                "description": "View 1,000 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 7,
+                "bonus": 10,
+                "description": "View 1,100 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 8,
+                "bonus": 10,
+                "description": "View 1,200 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 9,
+                "bonus": 10,
+                "description": "View 1,350 Area Conversations."
+            },
+            {
+                "honorId": 138,
+                "level": 10,
+                "bonus": 10,
+                "description": "View 1,500 Area Conversations."
             }
         ]
     },
@@ -6864,6 +7434,60 @@
                 "level": 1,
                 "bonus": 0,
                 "description": "Become Co-op/Cheerful Show MVP 100 times."
+            },
+            {
+                "honorId": 145,
+                "level": 2,
+                "bonus": 0,
+                "description": "Be crowned MVP 200 times."
+            },
+            {
+                "honorId": 145,
+                "level": 3,
+                "bonus": 0,
+                "description": "Be crowned MVP 300 times."
+            },
+            {
+                "honorId": 145,
+                "level": 4,
+                "bonus": 0,
+                "description": "Be crowned MVP 400 times."
+            },
+            {
+                "honorId": 145,
+                "level": 5,
+                "bonus": 0,
+                "description": "Be crowned MVP 500 times."
+            },
+            {
+                "honorId": 145,
+                "level": 6,
+                "bonus": 0,
+                "description": "Be crowned MVP 600 times."
+            },
+            {
+                "honorId": 145,
+                "level": 7,
+                "bonus": 0,
+                "description": "Be crowned MVP 700 times."
+            },
+            {
+                "honorId": 145,
+                "level": 8,
+                "bonus": 0,
+                "description": "Be crowned MVP 800 times."
+            },
+            {
+                "honorId": 145,
+                "level": 9,
+                "bonus": 0,
+                "description": "Be crowned MVP 900 times."
+            },
+            {
+                "honorId": 145,
+                "level": 10,
+                "bonus": 0,
+                "description": "Be crowned MVP 1,000 times."
             }
         ]
     },
@@ -51914,6 +52538,286 @@
                 "description": "Clear 590 songs with a Full Combo on Easy difficulty.",
                 "assetbundleName": "honor_3009_600",
                 "honorRarity": "middle"
+            },
+            {
+                "honorId": 3009,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_700"
+            },
+            {
+                "honorId": 3009,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_800"
+            },
+            {
+                "honorId": 3009,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_900"
+            },
+            {
+                "honorId": 3009,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
+            },
+            {
+                "honorId": 3009,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs with a Full Combo on Easy difficulty.",
+                "assetbundleName": "honor_3009_1000"
             }
         ]
     },
@@ -52403,6 +53307,286 @@
                 "description": "Clear 590 songs with a Full Combo on Normal difficulty.",
                 "assetbundleName": "honor_3010_600",
                 "honorRarity": "high"
+            },
+            {
+                "honorId": 3010,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_700"
+            },
+            {
+                "honorId": 3010,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_800"
+            },
+            {
+                "honorId": 3010,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_900"
+            },
+            {
+                "honorId": 3010,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
+            },
+            {
+                "honorId": 3010,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs with a Full Combo on Normal difficulty.",
+                "assetbundleName": "honor_3010_1000"
             }
         ]
     },
@@ -52892,6 +54076,286 @@
                 "description": "Clear 590 songs with a Full Combo on Hard difficulty.",
                 "assetbundleName": "honor_3011_600",
                 "honorRarity": "high"
+            },
+            {
+                "honorId": 3011,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_700"
+            },
+            {
+                "honorId": 3011,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_800"
+            },
+            {
+                "honorId": 3011,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_900"
+            },
+            {
+                "honorId": 3011,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
+            },
+            {
+                "honorId": 3011,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs with a Full Combo on Hard difficulty.",
+                "assetbundleName": "honor_3011_1000"
             }
         ]
     },
@@ -53381,6 +54845,286 @@
                 "description": "Clear 590 songs with a Full Combo on Expert difficulty.",
                 "assetbundleName": "honor_3012_600",
                 "honorRarity": "high"
+            },
+            {
+                "honorId": 3012,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_700"
+            },
+            {
+                "honorId": 3012,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_800"
+            },
+            {
+                "honorId": 3012,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_900"
+            },
+            {
+                "honorId": 3012,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
+            },
+            {
+                "honorId": 3012,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs with a Full Combo on Expert difficulty.",
+                "assetbundleName": "honor_3012_1000"
             }
         ]
     },
@@ -53870,6 +55614,286 @@
                 "description": "Clear 590 songs with a Full Combo on Master difficulty.",
                 "assetbundleName": "honor_3013_600",
                 "honorRarity": "high"
+            },
+            {
+                "honorId": 3013,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_700"
+            },
+            {
+                "honorId": 3013,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_800"
+            },
+            {
+                "honorId": 3013,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_900"
+            },
+            {
+                "honorId": 3013,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
+            },
+            {
+                "honorId": 3013,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs with a Full Combo on Master difficulty.",
+                "assetbundleName": "honor_3013_1000"
             }
         ]
     },
@@ -54359,6 +56383,286 @@
                 "description": "Clear 590 songs on Master difficulty with All Perfects.",
                 "assetbundleName": "honor_3014_600",
                 "honorRarity": "highest"
+            },
+            {
+                "honorId": 3014,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_700"
+            },
+            {
+                "honorId": 3014,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_800"
+            },
+            {
+                "honorId": 3014,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_900"
+            },
+            {
+                "honorId": 3014,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
+            },
+            {
+                "honorId": 3014,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs on Master difficulty with All Perfects.",
+                "assetbundleName": "honor_3014_1000"
             }
         ]
     },
@@ -82008,6 +84312,326 @@
                 "description": "Clear 590 songs with a Full Combo on Append difficulty.",
                 "assetbundleName": "honor_4700_600",
                 "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_700",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_800",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_900",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
+            },
+            {
+                "honorId": 4700,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs with a Full Combo on Append difficulty.",
+                "assetbundleName": "honor_4700_1000",
+                "honorRarity": "high"
             }
         ]
     },
@@ -82496,6 +85120,326 @@
                 "bonus": 0,
                 "description": "Clear 590 songs on Append difficulty with All Perfects.",
                 "assetbundleName": "honor_4701_600",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 61,
+                "bonus": 0,
+                "description": "Clear 600 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 62,
+                "bonus": 0,
+                "description": "Clear 610 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 63,
+                "bonus": 0,
+                "description": "Clear 620 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 64,
+                "bonus": 0,
+                "description": "Clear 630 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 65,
+                "bonus": 0,
+                "description": "Clear 640 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 66,
+                "bonus": 0,
+                "description": "Clear 650 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 67,
+                "bonus": 0,
+                "description": "Clear 660 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 68,
+                "bonus": 0,
+                "description": "Clear 670 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 69,
+                "bonus": 0,
+                "description": "Clear 680 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 70,
+                "bonus": 0,
+                "description": "Clear 690 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_700",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 71,
+                "bonus": 0,
+                "description": "Clear 700 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 72,
+                "bonus": 0,
+                "description": "Clear 710 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 73,
+                "bonus": 0,
+                "description": "Clear 720 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 74,
+                "bonus": 0,
+                "description": "Clear 730 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 75,
+                "bonus": 0,
+                "description": "Clear 740 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 76,
+                "bonus": 0,
+                "description": "Clear 750 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 77,
+                "bonus": 0,
+                "description": "Clear 760 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 78,
+                "bonus": 0,
+                "description": "Clear 770 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 79,
+                "bonus": 0,
+                "description": "Clear 780 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 80,
+                "bonus": 0,
+                "description": "Clear 790 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_800",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 81,
+                "bonus": 0,
+                "description": "Clear 800 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 82,
+                "bonus": 0,
+                "description": "Clear 810 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 83,
+                "bonus": 0,
+                "description": "Clear 820 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 84,
+                "bonus": 0,
+                "description": "Clear 830 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 85,
+                "bonus": 0,
+                "description": "Clear 840 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 86,
+                "bonus": 0,
+                "description": "Clear 850 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 87,
+                "bonus": 0,
+                "description": "Clear 860 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 88,
+                "bonus": 0,
+                "description": "Clear 870 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 89,
+                "bonus": 0,
+                "description": "Clear 880 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 90,
+                "bonus": 0,
+                "description": "Clear 890 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_900",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 91,
+                "bonus": 0,
+                "description": "Clear 900 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 92,
+                "bonus": 0,
+                "description": "Clear 910 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 93,
+                "bonus": 0,
+                "description": "Clear 920 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 94,
+                "bonus": 0,
+                "description": "Clear 930 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 95,
+                "bonus": 0,
+                "description": "Clear 940 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 96,
+                "bonus": 0,
+                "description": "Clear 950 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 97,
+                "bonus": 0,
+                "description": "Clear 960 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 98,
+                "bonus": 0,
+                "description": "Clear 970 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 99,
+                "bonus": 0,
+                "description": "Clear 980 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
+                "honorRarity": "highest"
+            },
+            {
+                "honorId": 4701,
+                "level": 100,
+                "bonus": 0,
+                "description": "Clear 990 songs on Append difficulty with All Perfects.",
+                "assetbundleName": "honor_4701_1000",
                 "honorRarity": "highest"
             }
         ]
@@ -86917,6 +89861,22 @@
         ]
     },
     {
+        "id": 5016,
+        "seq": 20900,
+        "groupId": 450,
+        "honorRarity": "low",
+        "name": "Happy Anniversary MEIKO 11/5/2025",
+        "assetbundleName": "honor_5016",
+        "levels": [
+            {
+                "honorId": 5016,
+                "level": 1,
+                "bonus": 0,
+                "description": "Join MEIKO's Anniversary Show 2025."
+            }
+        ]
+    },
+    {
         "id": 5020,
         "seq": 1387,
         "groupId": 52,
@@ -88992,6 +91952,550 @@
                 "level": 1,
                 "bonus": 0,
                 "description": "View all story episodes for the event Rekindle the Flame."
+            }
+        ]
+    },
+    {
+        "id": 5146,
+        "seq": 200035,
+        "groupId": 458,
+        "honorRarity": "low",
+        "name": "Halloween 2025",
+        "assetbundleName": "honor_5146",
+        "levels": [
+            {
+                "honorId": 5146,
+                "level": 1,
+                "bonus": 0,
+                "description": "Join the Halloween Show 2025."
+            }
+        ]
+    },
+    {
+        "id": 5147,
+        "seq": 145901,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "1st",
+        "assetbundleName": "honor_top_000001",
+        "levels": [
+            {
+                "honorId": 5147,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 1st in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5148,
+        "seq": 145902,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "2nd",
+        "assetbundleName": "honor_top_000002",
+        "levels": [
+            {
+                "honorId": 5148,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 2nd in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5149,
+        "seq": 145903,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "3rd",
+        "assetbundleName": "honor_top_000003",
+        "levels": [
+            {
+                "honorId": 5149,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 3rd in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5150,
+        "seq": 145904,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "4th",
+        "assetbundleName": "honor_top_000004",
+        "levels": [
+            {
+                "honorId": 5150,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 4th in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5151,
+        "seq": 145905,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "5th",
+        "assetbundleName": "honor_top_000005",
+        "levels": [
+            {
+                "honorId": 5151,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 5th in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5152,
+        "seq": 145906,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "6th",
+        "assetbundleName": "honor_top_000006",
+        "levels": [
+            {
+                "honorId": 5152,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 6th in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5153,
+        "seq": 145907,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "7th",
+        "assetbundleName": "honor_top_000007",
+        "levels": [
+            {
+                "honorId": 5153,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 7th in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5154,
+        "seq": 145908,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "8th",
+        "assetbundleName": "honor_top_000008",
+        "levels": [
+            {
+                "honorId": 5154,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 8th in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5155,
+        "seq": 145909,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "9th",
+        "assetbundleName": "honor_top_000009",
+        "levels": [
+            {
+                "honorId": 5155,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 9th in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5156,
+        "seq": 145910,
+        "groupId": 459,
+        "honorRarity": "highest",
+        "name": "10th",
+        "assetbundleName": "honor_top_000010_v2",
+        "levels": [
+            {
+                "honorId": 5156,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank 10th in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5157,
+        "seq": 145911,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 20",
+        "assetbundleName": "honor_top_000020",
+        "levels": [
+            {
+                "honorId": 5157,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5158,
+        "seq": 145912,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 30",
+        "assetbundleName": "honor_top_000030",
+        "levels": [
+            {
+                "honorId": 5158,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5159,
+        "seq": 145913,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 40",
+        "assetbundleName": "honor_top_000040",
+        "levels": [
+            {
+                "honorId": 5159,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5160,
+        "seq": 145914,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 50",
+        "assetbundleName": "honor_top_000050",
+        "levels": [
+            {
+                "honorId": 5160,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5161,
+        "seq": 145915,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 100",
+        "assetbundleName": "honor_top_000100",
+        "levels": [
+            {
+                "honorId": 5161,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5162,
+        "seq": 145916,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 200",
+        "assetbundleName": "honor_top_000200",
+        "levels": [
+            {
+                "honorId": 5162,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 200 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5163,
+        "seq": 145917,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 300",
+        "assetbundleName": "honor_top_000300",
+        "levels": [
+            {
+                "honorId": 5163,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 300 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5164,
+        "seq": 145918,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 400",
+        "assetbundleName": "honor_top_000400",
+        "levels": [
+            {
+                "honorId": 5164,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 400 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5165,
+        "seq": 145919,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 500",
+        "assetbundleName": "honor_top_000500",
+        "levels": [
+            {
+                "honorId": 5165,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 500 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5166,
+        "seq": 145920,
+        "groupId": 459,
+        "honorRarity": "high",
+        "name": "Top 1,000",
+        "assetbundleName": "honor_top_001000",
+        "levels": [
+            {
+                "honorId": 5166,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5167,
+        "seq": 145921,
+        "groupId": 459,
+        "honorRarity": "middle",
+        "name": "Top 1,500",
+        "assetbundleName": "honor_top_001500",
+        "levels": [
+            {
+                "honorId": 5167,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 1,500 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5168,
+        "seq": 145922,
+        "groupId": 459,
+        "honorRarity": "middle",
+        "name": "Top 2,000",
+        "assetbundleName": "honor_top_002000",
+        "levels": [
+            {
+                "honorId": 5168,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5169,
+        "seq": 145923,
+        "groupId": 459,
+        "honorRarity": "middle",
+        "name": "Top 2,500",
+        "assetbundleName": "honor_top_002500",
+        "levels": [
+            {
+                "honorId": 5169,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 2,500 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5170,
+        "seq": 145924,
+        "groupId": 459,
+        "honorRarity": "middle",
+        "name": "Top 3,000",
+        "assetbundleName": "honor_top_003000",
+        "levels": [
+            {
+                "honorId": 5170,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 3,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5171,
+        "seq": 145925,
+        "groupId": 459,
+        "honorRarity": "middle",
+        "name": "Top 4,000",
+        "assetbundleName": "honor_top_004000",
+        "levels": [
+            {
+                "honorId": 5171,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 4,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5172,
+        "seq": 145926,
+        "groupId": 459,
+        "honorRarity": "middle",
+        "name": "Top 5,000",
+        "assetbundleName": "honor_top_005000",
+        "levels": [
+            {
+                "honorId": 5172,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 5,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5173,
+        "seq": 145927,
+        "groupId": 459,
+        "honorRarity": "middle",
+        "name": "Top 10,000",
+        "assetbundleName": "honor_top_010000",
+        "levels": [
+            {
+                "honorId": 5173,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 10,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5174,
+        "seq": 145928,
+        "groupId": 459,
+        "honorRarity": "low",
+        "name": "Top 20,000",
+        "assetbundleName": "honor_top_020000",
+        "levels": [
+            {
+                "honorId": 5174,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 20,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5175,
+        "seq": 145929,
+        "groupId": 459,
+        "honorRarity": "low",
+        "name": "Top 30,000",
+        "assetbundleName": "honor_top_030000",
+        "levels": [
+            {
+                "honorId": 5175,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 30,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5176,
+        "seq": 145930,
+        "groupId": 459,
+        "honorRarity": "low",
+        "name": "Top 40,000",
+        "assetbundleName": "honor_top_040000",
+        "levels": [
+            {
+                "honorId": 5176,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 40,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5177,
+        "seq": 145931,
+        "groupId": 459,
+        "honorRarity": "low",
+        "name": "Top 50,000",
+        "assetbundleName": "honor_top_050000",
+        "levels": [
+            {
+                "honorId": 5177,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 50,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5178,
+        "seq": 145932,
+        "groupId": 459,
+        "honorRarity": "low",
+        "name": "Top 100,000",
+        "assetbundleName": "honor_top_100000",
+        "levels": [
+            {
+                "honorId": 5178,
+                "level": 1,
+                "bonus": 0,
+                "description": "Rank among the top 100,000 in the event Happy Enjoy Music!"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "seq": 145933,
+        "groupId": 459,
+        "honorRarity": "low",
+        "name": "Memorial",
+        "assetbundleName": "honor_memorial",
+        "levels": [
+            {
+                "honorId": 5179,
+                "level": 1,
+                "bonus": 0,
+                "description": "View all story episodes for the event Happy Enjoy Music!"
             }
         ]
     },
