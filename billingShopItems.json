@@ -3810,6 +3810,21 @@
         "endAt": 4102473599000
     },
     {
+        "id": 20146,
+        "seq": 100,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 20188,
+        "name": "Training Bundle (Bday/Anniv)",
+        "description": "Special limited time bundle",
+        "billableLimitType": "unlimited",
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_20137",
+        "resourceBoxId": 20117,
+        "bonusResourceBoxId": 20122,
+        "startAt": 1761548400000,
+        "endAt": 1762156799000
+    },
+    {
         "id": 20147,
         "seq": 100,
         "billingShopItemType": "value_set",

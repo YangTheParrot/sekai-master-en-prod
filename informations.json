@@ -2631,6 +2631,18 @@
         "bannerAssetbundleName": "banner_news_4thAnniversaryCp"
     },
     {
+        "id": 2769,
+        "seq": 1,
+        "displayOrder": 4595908,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "(Updated: Oct. 29, 3:00 AM PT) Issue: Welcome Show Bug",
+        "path": "information/index.html?id=info_bug_welcomeshow_0926",
+        "startAt": 1761732000000
+    },
+    {
         "id": 2770,
         "seq": 1,
         "displayOrder": 4593046,
@@ -3112,7 +3124,7 @@
         "informationTag": "campaign",
         "browseType": "internal",
         "platform": "all",
-        "title": "[Announcement] Fall Login Campaign",
+        "title": "[Announcement] 2025 Fall Login Campaign",
         "path": "information/index.html?id=info_loginbonus_Fall_Login_Campaign_2025_notice",
         "startAt": 1762459200000,
         "endAt": 1762545599000,
@@ -3126,7 +3138,7 @@
         "informationTag": "campaign",
         "browseType": "internal",
         "platform": "all",
-        "title": "Fall Login Campaign, now on!",
+        "title": "2025 Fall login Camaign, now on!",
         "path": "information/index.html?id=info_loginbonus_Fall_Login_Campaign_2025_held",
         "startAt": 1762545600000,
         "endAt": 1763899199000,
@@ -3202,19 +3214,6 @@
         "endAt": 1761602399000
     },
     {
-        "id": 2813,
-        "seq": 1,
-        "displayOrder": 4596196,
-        "informationType": "normal",
-        "informationTag": "information",
-        "browseType": "internal",
-        "platform": "all",
-        "title": "[IMPORTANT] Regarding Switching to Pacific Standard Time",
-        "path": "information/index.html?id=info_summertime_20251102",
-        "startAt": 1761980400000,
-        "endAt": 1762761599000
-    },
-    {
         "id": 2814,
         "seq": 1,
         "displayOrder": 4595908,
@@ -3238,7 +3237,7 @@
         "title": "MIKU EXPO 2025 ASIA Celebration Gifts, coming soon!",
         "path": "information/index.html?id=info_loginbonus_MIKU_EXPO_2025_notice",
         "startAt": 1762156800000,
-        "endAt": 1764316799000,
+        "endAt": 1764403199000,
         "bannerAssetbundleName": "banner_news_me_celebration_campaign_asia_2025"
     },
     {
@@ -3321,6 +3320,18 @@
         "title": "Issue: Halloween 2025 Virtual Show",
         "path": "information/index.html?id=info_bug_halloween202virtual5show_1029",
         "startAt": 1761894000000
+    },
+    {
+        "id": 2831,
+        "seq": 1,
+        "displayOrder": 4595997,
+        "informationType": "bug",
+        "informationTag": "bug",
+        "browseType": "internal",
+        "platform": "all",
+        "title": "(Updated: Oct. 30, 12:15 AM PT)Issue that prevents some players from playing the game",
+        "path": "information/index.html?id=info_bug_playing_1029",
+        "startAt": 1761808500000
     },
     {
         "id": 10012,
